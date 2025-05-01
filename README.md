@@ -54,7 +54,7 @@ pip install opencv-python numpy pyttsx3 cvzone
 
 ## 📌 Letras Reconhecidas
 
-Atualmente, o sistema reconhece as seguintes letras (de acordo com os rótulos do modelo):
+Atualmente, o sistema reconhece as seguintes letras:
 
 ```
 a, b, c, d, e, f, g, i, l, m, n, o, p, q, r, s, t, u, v, w, y
